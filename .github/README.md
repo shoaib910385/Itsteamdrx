@@ -89,7 +89,7 @@ go build -o app ./cmd/app
 
 ### ☁️ Heroku Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheTeamVivek/YukkiMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shoaib9103/itsteamdrx)
 
 1. Click the **“Deploy to Heroku”** button above.  
 2. Fill in all required **environment variables**.  
