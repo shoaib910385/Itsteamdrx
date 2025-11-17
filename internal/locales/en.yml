@@ -307,7 +307,7 @@ spt_result: |
   Download: <code>{dl_mbps} Mbps</code>
   Upload: <code>{ul_mbps} Mbps</code>
 
-start_private: "⚡️Pika Pika, {user}!\n\n⚡️ Welcome to <b>{bot}</b>\n🎶 I’m here to help you play, stream, and manage music right here on Telegram. 🎵"
+start_private: "┌────── ˹ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ˼─── ⏤‌‌●\n┆◍ ʜєʏ, {user}!\n┆◍ ɪ ᴧϻ - {bot} \n└──────────────────────•\n<pre>ᯤ ᴘᴇʀsᴏɴᴀʟ ᴍᴜsɪᴄ ʙᴏᴛ ᴏғ ᴅʀx ɴᴇᴛᴡᴏʀᴋ </pre>/n•──────────────────────•\nᯤ ᴘᴏᴡєʀєᴅ ʙʏ » @thedrxnet"
 
 start_group: "<b>💫 I’m here!</b> Try a command… if you think you can handle me 😉"
 
@@ -317,11 +317,10 @@ stream_downloading_next: "📥 Downloading your next track..."
 stream_download_fail: "❌ Failed to download.\nError: <code>{error}</code>\nUse /skip to skip playback."
 stream_play_fail: "❌ Failed to play the song."
 stream_now_playing: |
-  <b>🎵 Now Playing:</b>
-
-  <b>▫ Track:</b> <a href="{url}">{title}</a>
-  <b>▫ Duration:</b> {duration}
-  <b>▫ Requested by:</b> {by}
+  <pre>▣ Sᴛᴧʀᴛєᴅ Sᴛʀєᴧϻιηɢ ♪</pre>
+  <b>๏ Tιᴛʟє: </b> <a href="{url}">{title}</a>
+  <b>๏ Dᴜʀᴧᴛιση:</b> {duration}
+  <b>๏ Rєǫᴜєsᴛєᴅ:</b> {by}
 
 supergroup_needed: |
   This chat (ID: <code>{chat_id}</code>) is not a supergroup yet.
