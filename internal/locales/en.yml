@@ -307,7 +307,7 @@ spt_result: |
   Download: <code>{dl_mbps} Mbps</code>
   Upload: <code>{ul_mbps} Mbps</code>
 
-start_private: "┌────── ˹ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ˼─── ⏤‌‌●\n┆◍ ʜєʏ, {user}!\n┆◍ ɪ ᴧϻ - {bot} \n└──────────────────────•\n<pre>ᯤ ᴘᴇʀsᴏɴᴀʟ ᴍᴜsɪᴄ ʙᴏᴛ ᴏғ ᴅʀx ɴᴇᴛᴡᴏʀᴋ </pre>/n•──────────────────────•\nᯤ ᴘᴏᴡєʀєᴅ ʙʏ » @thedrxnet"
+start_private: "┌────── ˹ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ˼─── ⏤‌‌●\n┆◍ ʜєʏ, {user}!\n┆◍ ɪ ᴧϻ - {bot} \n└──────────────────────•\n<pre>ᯤ ᴘᴇʀsᴏɴᴀʟ ᴍᴜsɪᴄ ʙᴏᴛ ᴏғ ᴅʀx ɴᴇᴛᴡᴏʀᴋ </pre>\n•──────────────────────•\nᯤ ᴘᴏᴡєʀєᴅ ʙʏ » @thedrxnet"
 
 start_group: "<b>💫 I’m here!</b> Try a command… if you think you can handle me 😉"
 
